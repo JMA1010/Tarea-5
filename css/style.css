@@ -1,0 +1,34 @@
+.clasecolor{
+    color: blue;
+}
+.clasetamaño{
+    font-size: 1.5em;
+}
+.claseheader{
+    background-color: rgb(33, 143, 143);
+    width: 100%;
+    height: 30ex;
+    text-align: center;
+}
+.clasefooter{
+    background-color: rgb(33, 143, 143);
+    width: 100%;
+    height: 10ex;
+    display: flex;               /*Hace que el contenido del contenedor se flexible, esto facilita su posicionamiento*/
+    justify-content: center;     /*centra el elemento de manera horizontal*/
+    align-items: center;         /*centra el elemento de manera vertical*/ 
+    }
+.centrartexto{
+    text-align: center;
+    
+}
+form{
+    border-style: double;
+    border-color:rgb(3, 3, 129);
+    width: 20%;
+    margin: 0 auto;
+    padding: 10px;  
+}
+table{
+    margin: 0 auto;
+}
